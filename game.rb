@@ -79,9 +79,3 @@ class Game
   end
 
 end
-
-
-
-new_game = Game.new()
-
-puts new_game.start
